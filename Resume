@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <title>Patrick Blanchard: Resume</title>
+    <meta charset="utf-8" />
+  </head>
+  <body>
+    <header>
+      <h1>Patrick Blanchard</h1>
+
+      <nav id="navigation">
+          <ul>
+            <li><a href="../">Home</a></li>
+            <li>Resume</li>
+            <li><a href="../hobby">Hobbies</a></li>
+          </ul>
+        </nav>
+        </header>
+        <ul>
+          <li>Glenview IL, 60026</li>
+          <li>224-704-2111</li>
+          <li>pblanchard@hawk.iit.edu</li>
+        </ul>
+        <h2>Education</h2>
+          <ul>
+              <li>Illinois Institute of Technology, Chicago IL<li>
+              <li>Consumer Research, Analytics, and Communications<li>
+              <li>2023<li>
+          </ul>
+        <h3>Work Experience</h3>
+          <ul>
+            <li>Camp Counselor/Basketball coach Eat, Play, Learn, 2018</li>
+            <li>Camp Counselor Hi-Five, 2019</li>
+            <li>Basketball coach RTG Hoops, 2019-20</li>
+          </ul>
+        <h4>Technical Skills</h4>
+          <ul>
+            <li>Microsoft Office</li>
+            <li>Google Docs</li>
+            <li>C++</li>
+          </ul>
+  </body>
+</html>

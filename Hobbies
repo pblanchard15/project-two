@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <title>Patrick Blanchard: Hobbies</title>
+    <meta charset="utf-8" />
+  </head>
+  <body>
+    <header>
+      <h1>Patrick Blanchard</h1>
+
+      <nav id="navigation">
+          <ul>
+            <li><a href="../">Home</a></li>
+            <li><a href="../resume/">Resume</a></li>
+            <li>Hobbies</li>
+          </ul>
+        </nav>
+      </header>
+
+      <h2>Basketball</h2>
+        <p>
+    I began playing basketball at around the age of 10 and it has became a very large part of my life.
+    I eventually grew a passion for the game and that lead me to spending a majority of my free time practicing it.
+    Whether it be with friends, a team, or by myself I would take every chance I had to practice, so much so
+    that there has only been a few days that come to mind in the past few years where I have not either played
+    basketball or done something else to better my game.
+        </p>
+
+      <h3>Family</h3>
+        <p>
+          Most of my time spend outside of playing basketball would be with my family or
+          one of my close friends that I basically consider family. Our favorite activity together would definitely
+          be watching TV shows/movies. Some of our favorites from over quarentine would have to be "Outer Banks" and
+          "Parks and Recreation".
+        </p>
+
+  </body>
+</html>
