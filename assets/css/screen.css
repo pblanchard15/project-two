@@ -24,6 +24,12 @@ h1 {
   font-weight: bold;
   font-size: 1.125em;
 }
+.nav a {
+  text-decoration: none;
+  display: block;
+  background: #FFFFFF;
+}
+
 ul {
   padding: 1em;
   list-style-type: disc;
