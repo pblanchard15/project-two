@@ -33,6 +33,9 @@ ul {
   padding: 1em;
   list-style-type: disc;
 }
+li {
+  padding-bottom: 1em;
+}
 h2 {
   font-size: 1.125em;
   font-weight: bold;
