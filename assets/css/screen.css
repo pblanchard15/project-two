@@ -7,3 +7,10 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
 /* stylelint-enable */
 
 /* Begin site styles below */
+
+html {
+  font-family: sans-serif, Times, Georgia, "Times New Roman", "Heofler Text", serif;
+  font-size: 1.125em;
+  line-height: 1.5em;
+  padding: .5em;
+}
