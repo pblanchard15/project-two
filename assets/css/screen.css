@@ -44,6 +44,10 @@ p {
   text-indent: 1.5em;
   padding-bottom: 1.5em;
 }
+img {
+  display: block;
+  max-width: 100%;
+}
 h3 {
   font-size: 1.125em;
   font-weight: bold;
