@@ -56,3 +56,9 @@ h4 {
   font-size: 1.125em;
   font-weight: bold;
 }
+
+  @media screen and (min-width: 700px) {
+    html {
+      font-size: 1.25em; /*20/16 = 1.25 */
+    }
+  }
