@@ -61,8 +61,8 @@ h4 {
     html {
       font-size: 1.2em; /*18/15 = 1.2*/
   }
-  @media screen and (min-width: 200px) {
-    html {
-      font-size: 0.75em; /*18/24 = 0.75*/
+  @media screen and (min-width: 400px) {
+    img {
+      max-width: 65%;
     }
   }
